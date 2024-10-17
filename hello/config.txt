@@ -1,0 +1,6 @@
+api_key=这里是google地图apikey
+limit=50
+smtp_server=
+smtp_port=
+smtp_user=
+smtp_password=
